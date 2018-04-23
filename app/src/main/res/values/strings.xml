@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Map1</string>
     <string name="title_activity_maps">Map</string>
+    <string name="alert_loc_permission">Need Location Permission</string>
+    <string name="close">Close</string>
+    <string name="setting">Setting</string>
 </resources>
